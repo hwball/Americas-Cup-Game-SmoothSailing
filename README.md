@@ -1,13 +1,7 @@
-# SENG302 Project Template
+# SENG302 Project
 
-Basic Maven project with required Maven reporting setup and basic GitLab CI.
+This project was completed eight second professional year software engineering students from the University of Canterbury.
 
-It is a requirement that your product should be completely built to a deliverable form using the Maven package goal.
-
-Remember to set up your GitLab CI server (refer to the student guide for instructions).
-
-# Basic Project Structure
- - `src/` Your application source
- - `doc/` User and design documentation
- - `doc/examples/` Demo example files for use with your application
+This game was built on top of a [America's cup data viewer](https://github.com/hwball/Americas-Cup-Data-viewer--RaceVision) by the same students.
+It supports multiplay via tcp connections although local firewalls may prevent this.
  
